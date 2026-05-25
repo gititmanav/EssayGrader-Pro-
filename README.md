@@ -7,7 +7,7 @@
 [![Backend](https://img.shields.io/badge/Backend-Convex-ee342f)]()
 [![AI](https://img.shields.io/badge/Model-Amazon%20Nova%20Pro%20via%20Bedrock%20Converse-ff9900)]()
 
-**Live demo:** *coming soon* — `[(https://essay-grader-pro.vercel.app/)]`
+**Live demo:** [https://essay-grader-pro.vercel.app/](https://essay-grader-pro.vercel.app/)
 **One-paragraph version:** Educators spend disproportionate time on essay grading and apply standards inconsistently across a stack. This app uses **few-shot prompting** (not RAG, not fine-tuning) to teach a frontier LLM the *individual instructor's* grading style from 5–10 graded examples, then grades new essays the same way. A **blind-validation pass** on held-out essays establishes a measurable accuracy floor before the instructor trusts the AI on the rest of the batch.
 
 ---
